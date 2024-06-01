@@ -1,5 +1,0 @@
-# start venv 
-source stable-diffusion-venv/bin/activate
-
-# stop venv
-deactivate
