@@ -1,0 +1,493 @@
+[
+    {
+        "week_info": "Tedenski meni od 8. do 12. aprila",
+        "days": [
+            {
+                "day": "ponedeljek, 8. april",
+                "items": [
+                    "meni 1 (perutnina): paradižnikova juha, piščančji b.k.k na žaru, riž s cvetačo,brokolijem in korenjem, sestavljena solata",
+                    "meni 2 (mleto meso): paradižnikova juha, pečenica, krompirjevi žganci,kislo zelje, sestavljena solata.",
+                    "meni 3 (rdeče meso): paradižnikova juha, pečen svinjski vrat, dolar chips, sestavljena solata.",
+                    "meni 4 (vege): paradižnikova juha, koruzni zrezek, dollar chips,stročji fižol z gobicam sestavljena solata.",
+                    "meni 5 (testenine): paradižnikova juha, makaronovo meso, sestavljena solata",
+                    "meni 6 (solata): paradižnikova juha, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "torek, 9. april",
+                "items": [
+                    "meni 1 (perutnina): zeljna juha s krompirjem, pečen piščanec pekovski krompir  sestavljena solata",
+                    "meni 2 (mleto meso): zeljna juha s krompirjem, čevapčiči, pekovski krompir,ajvar, sestavljena solata.",
+                    "meni 3 (rdeče meso): zeljna juha s krompirjem,  zrezek v omaki s kaprami in paradižnikom, krompirjevi njoki sestavljena solata.",
+                    "meni 4 (vege): zeljna juha s krompirjem, ocvrti kanelon s špinačo in sirom, tribarvni riž,tatarska omaka sestavljena solata.",
+                    "meni 5 (testenine): zeljna juha s krompirjem, testenine z bolonjsko omako, sestavljena solata",
+                    "meni 6 (enolončnica): jota s kislo repo, sladica ali sestavljena solata",
+                    "meni 7 (solata): zeljna juha s krompirjem, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "sreda, 10. april",
+                "items": [
+                    "meni 1 (perutnina): cvetačna juha , puranov file z medom in limono, pire krompir,brstični ohrovt, sestavljena solata",
+                    "meni 2 (rdeče meso): cvetačna juha,  nabodalo na žaru, basmati riž,brstični ohrovt, sestavljena solata.",
+                    "meni 3 testenine): cvetačna juha, gobova lazanja, sestavljena solata.",
+                    "meni 4 (vege): zelenjavna mineštra tortilija s tofujem, basmati riž,sirova omaka sestavljena solata.",
+                    "meni 5 (riba): cvetačna juha, gratiniran file romba z bučko in sirom,maslen krompir sestavljena solata",
+                    "meni 6 enolončnica):, krompirjev golaž s kranjsko klobaso, sladica",
+                    "meni 7 (solata): cvetačna juha, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "četrtek, 11. april",
+                "items": [
+                    "meni 1 (perutnina): zelenjavna mineštra , piščančji file v koruznem ovoju, maslen riž,bbq omaka, sestavljena solata",
+                    "meni 2 (mleto meso): zelenjavna mineštra, mesni polpet z rikoto, pomess frites, sestavljena solata.",
+                    "meni 3 rdeče meso): zelenjavna mineštra , ombolo na žaru, pomess frites sestavljena solata.",
+                    "meni 4 (testenine): zelenjavna mineštra testenine s piščancem in zelenjavo, sestavljena solata.",
+                    "meni 5 (vege): zelenjavna mineštra zavitek s sladkim krompirjem in špinačo,čebulni obročki,lečina omaka  sestavljena solata",
+                    "meni 6 (solata): zelenjavna mineštra, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "petek, 12. april",
+                "items": [
+                    "meni 1 (perutnina) goveja ali gobova juha ocvrti piščanec, pražen krompir, sestavljena solata",
+                    "meni 2 (rdeče meso): goveja ali gobova juha, govedina iz juhe, pražen krompir,kremna špinača, sestavljena solata.",
+                    "meni 3 (rdeče meso): goveja ali gobova juha, chili con carne,basmati riž načo sir in čips sestavljena solata.",
+                    "meni 4 (vege): goveja ali gobova juha čičirikini ocvrtki,brokoli z mandlji,korenčkov pire sestavljena solata.",
+                    "meni 5 (testenine): goveja ali gobova juha, testenine s pršutom in zelenjavo sestavljena solata",
+                    "meni 6 (riba): goveja ali gobova juha, file soma z limono , brokoli z mandlji,korenčkov pire sestavljena solata"
+                ]
+            }
+        ]
+    },
+    {
+        "week_info": "Tedenski meni od 20. do 24. maja",
+        "days": [
+            {
+                "day": "ponedeljek, 20. maj",
+                "items": [
+                    "meni 1 (perutnina): juha iz rdeče leče, piščančji file na žaru, dollar chips, pečena zelenjava, sestavljena solata",
+                    "meni 2 (mleto meso): juha iz rdeče leče, gurmanska pleskavica, dollar chips,kajmak, sestavljena solata.",
+                    "meni 3 (rdeče meso): juha iz rdeče leče, rižota s korenjem,grahom in svinjskim mesom, sestavljena solata.",
+                    "meni 4 (vege): juha iz rdeče leče, mariniran tofu, basmati riž,pečena zelenjava sestavljena solata.",
+                    "meni 5 (testenine): juha iz rdeče leče, testenine s tuno, sestavljena solata",
+                    "meni 6 (enolončnica): ričet s kranjsko klobaso, sladica ali sestavljena solata",
+                    "meni 7(solata): juha iz rdeče leče, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "torek, 21. maj",
+                "items": [
+                    "meni 1 (perutnina): korenčkova s kruhovimi kockami, pečeno piščančje bedro, krompirjevi krhlji  sestavljena solata",
+                    "meni 2 (mleto meso): korenčkova s kruhovimi kockami, krompirjeva musaka z mesom, kremna špinača, sestavljena solata.",
+                    "meni 3 (rdeče meso): korenčkova s kruhovimi kockami,  kotlet na žaru, zelenjavni riž,kuhana zelenjava sestavljena solata.",
+                    "meni 4 (vege): korenčkova s kruhovimi kockami ,ocvrti sir, zelenjavni riž,kuhana zelenjava sestavljena solata.",
+                    "meni 5 (testenine): korenčkova s kruhovimi kockami, testenine z lososom na mladi špinači sestavljena solata",
+                    "meni 6 (enolončnica): boranja z lepinjo, sladica ali sestavljena solata",
+                    "meni 7 (solata): korenčkova s kruhovimi kockami, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "sreda, 22. maj",
+                "items": [
+                    "meni 1 (perutnina): koruzna juha s korenjem in jajcem , piščančji dunajski zrezek, pražen krompir,tatarska omaka, sestavljena solata",
+                    "meni 2 (rdeče meso): koruzna juha s korenjem in jajcem,  zrezek v naravni omaki, riž z grahom,šampinjoni na špinači, sestavljena solata.",
+                    "meni 3 rdeče meso): koruzna juha s korenjem in jajcem, segedin golaž,slan krompir, sestavljena solata.",
+                    "meni 4 (vege koruzna juha s korenjem in jajcem skutin štrukelj, žafranova omaka,šampinjoni na špinači sestavljena solata.",
+                    "meni 5 (riba): koruzna juha s korenjem in jajcem, pečena postrv v koruzni srajčki,maslen krompir sestavljena solata",
+                    "meni 6 enolončnica):, vampi,kruhov cmok sladica",
+                    "meni 7 (solata): koruzna juha s korenjem in jajcem, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "četrtek, 23. maj",
+                "items": [
+                    "meni 1 (perutnina): zelenjavna mineštra , puranov zrezek v sirovi omaki, krompirjevi njoki, sestavljena solata",
+                    "meni 2 (mleto meso): zelenjavna mineštra, tortilija z mletim mesom, zelenjavni riž,paradižnikova omaka, sestavljena solata.",
+                    "meni 3 rdeče meso): zelenjavna mineštra , goveji ragu stroganov, kremna polenta sestavljena solata.",
+                    "meni 4 (testenine): zelenjavna mineštra testenine po mediteransko, sestavljena solata.",
+                    "meni 5 (vege): zelenjavna mineštra zelenjavna pita,pečena cvetača,paradižnikova omaka sestavljena solata",
+                    "meni 6 (solata): zelenjavna mineštra, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "petek, 24. maj",
+                "items": [
+                    "meni 1 (perutnina) goveja ali gobova juha, piščančji b.k.k. v naravni omaki, zelenjavni riž, sestavljena solata",
+                    "meni 2 (rdeče meso): goveja ali gobova juha, govedina iz juhe, pražen krompir,kremna špinača, sestavljena solata.",
+                    "meni 3 (rdeče meso): goveja ali gobova juha  dunajski zrezek,krompirjeva solata  sestavljena solata.",
+                    "meni 4 (vege): goveja ali gobova juha nadevane bučke,slan krompir sestavljena solata.",
+                    "meni 5 (testenine): goveja ali gobova juha, testenine s piščancem in zelenjavo sestavljena solata",
+                    "meni 6 (riba): goveja ali gobova juha orada na žaru,slan krompir,tržaška omaka,sestavljena solata"
+                ]
+            }
+        ]
+    },
+    {
+        "week_info": "Tedenski meni od 22. do 26. aprila",
+        "days": [
+            {
+                "day": "ponedeljek, 22. april",
+                "items": [
+                    "meni 1 (perutnina): brokolijeva kremna juha, piščančje stegno s paradižnikom in sirom, krompirjevi krhlji, sestavljena solata",
+                    "meni 2 (mleto meso): brokolijeva kremna juha, mesni polpet, riž s koruzo, sestavljena solata.",
+                    "meni 3 (rdeče meso): brokolijeva kremna juha, ombolo na žaru, krompirjevi krhlji,zelenjava na maslu sestavljena solata.",
+                    "meni 4 (vege): brokolijeva kremna juha, ocvrti šampinjoni, krompirjevi krhlji,zelenjava na maslu sestavljena solata.",
+                    "meni 5 (testenine): brokolijeva kremna juha, testenine alfredo s piščancem, sestavljena solata",
+                    "meni 6(enolončnica): jota s kislim zeljem, solata ali sladica",
+                    "meni 7(solata): brokolijeva kremna juha, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "torek, 23. april",
+                "items": [
+                    "meni 1 (perutnina): porova juha s krompirjem, ocvrti piščančji file z bučnimi semeni in parmezanom, tribarvni riž z grahom  sestavljena solata",
+                    "meni 2 (mleto meso): porova juha s krompirjem, čevapčiči, pommes frites, ajvar sestavljena solata.",
+                    "meni 3 (rdeče meso): porova juha s krompirjem, dušena govedina, kruhov cmok sestavljena solata.",
+                    "meni 4 (vege): porova juha s krompirjem,cvetačni narastek, tribarvni riž z grahom,paradižnikova omaka sestavljena solata.",
+                    "meni 5 (testenine): porova juha s krompirjem, testenine carbonara, sestavljena solata",
+                    "meni 6(enolončnica): pasulj s suhim mesom, solata ali sladica",
+                    "meni 7 (solata): porova juha s krompirjem, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "sreda, 24. april",
+                "items": [
+                    "meni 1 (perutnina): čičirikina kremna juha , marinirano piščančje nabodalo, kus kus,jajčevci z jogurtom, sestavljena solata",
+                    "meni 2 (rdeče meso): čičirikina kremna juha, svinjska krača, krompir z gomoljno zelenjavo, sestavljena solata.",
+                    "meni 3 testenine): čičirikina kremna juha, špinačna lazanja, sestavljena solata.",
+                    "meni 4 vege): čičirikina kremna juha, zelenjavni zavitek , pečene bučke s špinačo,sladek krompir sestavljena solata.",
+                    "meni 5 riba: čičirikina kremna juha, file romba,pečene bučke s špinačo,sladek krompir sestavljena solata.",
+                    "meni 6(enolončnica): bograč, solata ali sladica",
+                    "meni 7 solata): čičirikina kremna juha, solata s piščancem ali tuno, dnevna sladica"
+                ]
+            },
+            {
+                "day": "četrtek, 25. april",
+                "items": [
+                    "meni 1 (perutnina): zelenjavna mineštra , piščančja tortilija, zelenjavni riž,sirova omaka, sestavljena solata",
+                    "meni 2 (mleto meso): zelenjavna mineštra, krvavica, matevž,kislo zelje, sestavljena solata.",
+                    "meni 3 rdeče meso): zelenjavna mineštra ,  zrezek v gorčični omaki, špinačni rezanci sestavljena solata.",
+                    "meni 4 (testenine): zelenjavna mineštra testenine z lignji in hobotnico  sestavljena solata.",
+                    "meni 5 (vege): zelenjavna mineštra ocvrti jajčevci,pire krompir,brokoli,sirova omaka, sestavljena solata",
+                    "meni 6 (solata): zelenjavna mineštra, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "petek, 26. april",
+                "items": [
+                    "meni 1 (perutnina) goveja ali gobova juha, pečen piščanec, dollar chips,brstični ohrovt, sestavljena solata",
+                    "meni 2 (rdeče meso): goveja ali gobova juha, govedina iz juhe, pražen krompir,kremna špinača, sestavljena solata.",
+                    "meni 3 (rdeče meso): goveja ali gobova juha, ocvrti mesni kanelon,dollar chips sestavljena solata.",
+                    "meni 4 (vege): goveja ali gobova juha riževi polpeti s špinačo in sirom,čičirikin pire,paradižnikova omaka sestavljena solata.",
+                    "meni 5 (testenine): goveja ali gobova juha, ravijoli sestavljena solata",
+                    "meni 6 (riba): goveja ali gobova juha pečen oslič,pražen krompir,kremna špinača,sestavljena solata"
+                ]
+            }
+        ]
+    },
+    {
+        "week_info": "Tedenski meni od 25. do 29. marca",
+        "days": [
+            {
+                "day": "ponedeljek, 25. marec",
+                "items": [
+                    "meni 1 (perutnina): brokolijeva kremna juha, piščančje stegno s paradižnikom in sirom, krompirjevi krhlji, sestavljena solata",
+                    "meni 2 (mleto meso): brokolijeva kremna juha, mesni polpet, riž s koruzo, sestavljena solata.",
+                    "meni 3 (rdeče meso): brokolijeva kremna juha, ombolo na žaru, krompirjevi krhlji,zelenjava na maslu sestavljena solata.",
+                    "meni 4 (vege): brokolijeva kremna juha, ocvrti šampinjoni, krompirjevi krhlji,zelenjava na maslu sestavljena solata.",
+                    "meni 5 (testenine): brokolijeva kremna juha, testenine alfredo s piščancem, sestavljena solata",
+                    "meni 6(enolončnica): jota s kislim zeljem, solata ali sladica",
+                    "meni 7(solata): brokolijeva kremna juha, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "torek, 26. marec",
+                "items": [
+                    "meni 1 (perutnina): porova juha s krompirjem, ocvrti piščančji file z bučnimi semeni in parmezanom, tribarvni riž z grahom  sestavljena solata",
+                    "meni 2 (mleto meso): porova juha s krompirjem, čevapčiči, pommes frites, ajvar sestavljena solata.",
+                    "meni 3 (rdeče meso): porova juha s krompirjem, dušena govedina, kruhov cmok sestavljena solata.",
+                    "meni 4 (vege): porova juha s krompirjem,cvetačni narastek, tribarvni riž z grahom,paradižnikova omaka sestavljena solata.",
+                    "meni 5 (testenine): porova juha s krompirjem, testenine carbonara, sestavljena solata",
+                    "meni 6(enolončnica): pasulj s suhim mesom, solata ali sladica",
+                    "meni 7 (solata): porova juha s krompirjem, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "sreda, 27. marec",
+                "items": [
+                    "meni 1 (perutnina): čičirikina kremna juha , marinirano piščančje nabodalo, kus kus,jajčevci z jogurtom, sestavljena solata",
+                    "meni 2 (rdeče meso): čičirikina kremna juha, svinjska krača, krompir z gomoljno zelenjavo, sestavljena solata.",
+                    "meni 3 testenine): čičirikina kremna juha, špinačna lazanja, sestavljena solata.",
+                    "meni 4 vege): čičirikina kremna juha, zelenjavni zavitek , pečene bučke s špinačo,sladek krompir sestavljena solata.",
+                    "meni 5 riba: čičirikina kremna juha, file romba,pečene bučke s špinačo,sladek krompir sestavljena solata.",
+                    "meni 6(enolončnica): bograč, solata ali sladica",
+                    "meni 7 solata): čičirikina kremna juha, solata s piščancem ali tuno, dnevna sladica"
+                ]
+            },
+            {
+                "day": "četrtek, 28. marec",
+                "items": [
+                    "meni 1 (perutnina): zelenjavna mineštra , piščančja tortilija, zelenjavni riž,sirova omaka, sestavljena solata",
+                    "meni 2 (mleto meso): zelenjavna mineštra, krvavica, matevž,kislo zelje, sestavljena solata.",
+                    "meni 3 rdeče meso): zelenjavna mineštra ,  zrezek v gorčični omaki, špinačni rezanci sestavljena solata.",
+                    "meni 4 (testenine): zelenjavna mineštra testenine z lignji in hobotnico  sestavljena solata.",
+                    "meni 5 (vege): zelenjavna mineštra ocvrti jajčevci,pire krompir,brokoli,sirova omaka, sestavljena solata",
+                    "meni 6 (solata): zelenjavna mineštra, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "petek, 29. marec",
+                "items": [
+                    "meni 1 (perutnina) goveja ali gobova juha, pečen piščanec, dollar chips,brstični ohrovt, sestavljena solata",
+                    "meni 2 (rdeče meso): goveja ali gobova juha, govedina iz juhe, pražen krompir,kremna špinača, sestavljena solata.",
+                    "meni 3 (rdeče meso): goveja ali gobova juha, ocvrti mesni kanelon,dollar chips sestavljena solata.",
+                    "meni 4 (vege): goveja ali gobova juha riževi polpeti s špinačo in sirom,čičirikin pire,paradižnikova omaka sestavljena solata.",
+                    "meni 5 (testenine): goveja ali gobova juha, ravijoli sestavljena solata",
+                    "meni 6 (riba): goveja ali gobova juha pečen oslič,pražen krompir,kremna špinača,sestavljena solata"
+                ]
+            }
+        ]
+    },
+    {
+        "week_info": "Tedenski meni od 15. do 19. aprila",
+        "days": [
+            {
+                "day": "ponedeljek, 15. april",
+                "items": [
+                    "Meni 1 (perutnina): Juha iz rdeče leče, Piščančji file na žaru, Dollar chips, pečena zelenjava, sestavljena solata",
+                    "Meni 2 (Mleto meso): Juha iz rdeče leče, Gurmanska pleskavica, Dollar chips,kajmak, sestavljena solata",
+                    "Meni 3 (rdeče meso): Juha iz rdeče leče, Rižota s korenjem,grahom in svinjskim mesom, sestavljena solata",
+                    "Meni 4 (vege): Juha iz rdeče leče, Mariniran tofu, Basmati riž, pečena zelenjava, sestavljena solata",
+                    "Meni 5 (testenine): Juha iz rdeče leče, Ravioli z jajčevci in paradižnkom, sestavljena solata",
+                    "Meni 6 (enolončnica): Ričet s kranjsko klobaso, sladica ali sestavljena solata",
+                    "Meni 7 (solata): Juha iz rdeče leče, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "torek, 16. april",
+                "items": [
+                    "Meni 1 (perutnina): Korenčkova s kruhovimi kockami, Pečeno piščančje bedro, Krompirjevi krhlji, sestavljena solata",
+                    "Meni 2 (Mleto meso): Korenčkova s kruhovimi kockami, Krompirjeva musaka z mesom, Kremna špinača, sestavljena solata.",
+                    "Meni 3 (Rdeče meso): Korenčkova s kruhovimi kockami, svinjski kotlet na žaru, Zelenjavni riž, kuhana zelenjava, sestavljena solata",
+                    "Meni 4 (vege): Korenčkova s kruhovimi kockami, Ocvrti sir, Zelenjavni riž, kuhana zelenjava, sestavljena solata",
+                    "Meni 5 (Testenine): Korenčkova s kruhovimi kockami, Testenine z lososom na mladi špinači, sestavljena solata",
+                    "Meni 6 (enolončnica): Boranja z lepinjo, sladica ali sestavljena solata",
+                    "Meni 7 (solata): Korenčkova s kruhovimi kockami, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "sreda, 17. april",
+                "items": [
+                    "Meni 1 (perutnina): Koruzna juha s korenjem in jajcem , Piščančji dunajski zrezek, Pražen krompir, tatarska omaka, sestavljena solata",
+                    "Meni 2 (Rdeče meso): Koruzna juha s korenjem in jajcem, svinjski zrezek v naravni omaki, Riž z grahom, šampinjoni na špinači, sestavljena solata",
+                    "Meni 3 Rdeče meso): Koruzna juha s korenjem in jajcem, Segedin golaž, slan krompir, sestavljena solata",
+                    "Meni 4 (Vege Koruzna juha s korenjem in jajcem, Skutin štrukelj, Žafranova omaka, šampinjoni na špinači, sestavljena solata",
+                    "Meni 5 (Riba): Koruzna juha s korenjem in jajcem, Pečena postrv v koruzni srajčki, Maslen krompir, sestavljena solata",
+                    "Meni 6 Enolončnica): Vampi, kruhov cmok, sladica",
+                    "Meni 7 (solata): Koruzna juha s korenjem in jajcem, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "četrtek, 18. april",
+                "items": [
+                    "Meni 1 (perutnina): Zelenjavna mineštra, Puranov zrezek v sirovi omaki, Krompirjevi njoki, sestavljena solata",
+                    "Meni 2 (Mleto meso): Zelenjavna mineštra, Tortilija z mletim mesom, Zelenjavni riž, paradižnikova omaka, sestavljena solata",
+                    "Meni 3 Rdeče meso): Zelenjavna mineštra, Goveji ragu stroganov, Kremna polenta, sestavljena solata",
+                    "Meni 4 (Testenine): Zelenjavna mineštra, testenine po mediteransko, sestavljena solata",
+                    "Meni 5 (Vege): Zelenjavna mineštra, Zelenjavni kiš, Pečena cvetača, paradižnikova omaka, sestavljena solata",
+                    "Meni 6 (solata): Zelenjavna mineštra, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "petek, 19. april",
+                "items": [
+                    "Meni 1 (perutnina) Goveja ali gobova juha, Piščančji b.k.k. v naravni omaki, Zelenjavni riž, sestavljena solata",
+                    "Meni 2 (Rdeče meso): Goveja ali gobova juha, Govedina iz juhe, Pražen krompir, kremna špinača, sestavljena solata",
+                    "Meni 3 (Rdeče meso): Goveja ali gobova juha, svinjski dunajski zrezek, Krompirjeva solata, sestavljena solata",
+                    "Meni 4 (Vege): Goveja ali gobova juha, Nadevane bučke, Slan krompir sestavljena solata",
+                    "Meni 5 (Testenine): Goveja ali gobova juha, Testenine s piščancem in zelenjavo, sestavljena solata",
+                    "Meni 6 (Riba): Goveja ali gobova juha, Orada na žaru, Slan krompir, tržaška omaka, sestavljena solata"
+                ]
+            }
+        ]
+    },
+    {
+        "week_info": "Tedenski meni od 2. do 5. aprila",
+        "days": [
+            {
+                "day": "torek, 2. april",
+                "items": [
+                    "meni 1 (perutnina): grahova juha z rižem, začinjene piščančje kračke pire krompir,pečena buča, sestavljena solata",
+                    "meni 2 (rdeče meso): grahova juha z rižem, pleskavica na žaru, riž s čičeriko in paradižnikom ajvar, sestavljena solata.",
+                    "meni 3 (rdeče meso): grahova juha z rižem, ocvrti zrezek po dunajsko, riž s čičeriko in paradižnikom pečena buča, sestavljena solata.",
+                    "meni 4 (vege): grahova juha z rižem, mladi sir iz žara, riž s čičeriko in paradižnikom,pečena buča sestavljena solata.",
+                    "meni 5 (testenine): grahova juha z rižem, testenine s tuno sestavljena solata",
+                    "meni 6 (enolončnica): pašta fižol, sladica ali sestavljena solata",
+                    "meni 7 (solata): grahova juha z rižem, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "sreda, 3. april",
+                "items": [
+                    "meni 1 (perutnina): prežganka z jajcem, piščančje nabodalo iz žara, dollar chips in soutirano baby korenje, sestavljena solata",
+                    "meni 2 (rdeče meso): prežganka z jajcem, telečja bakalca, slan krompir, sestavljena solata.",
+                    "meni 3 (rdeče meso): prežganka z jajcem, pečena svinjska rebra, dolar chips, sestavljena solata.",
+                    "meni 4 (vege): prežganka z jajcem, špinačna pita s feta sirom, soutirano baby korenje,grški jogurt sestavljena solata.",
+                    "meni 5 (testenine): prežganka z jajcem, testenine s piščančjim paprikašem",
+                    "sestavljena solata",
+                    "meni 6 (enolončnica): golaževa juha s krompirjem in zelenjavo, sladica ali sestavljena solata",
+                    "meni 7 (solata): prežganka z jajcem, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "četrtek, 4. april",
+                "items": [
+                    "meni 1 (perutnina): zelenjavna mineštra s stročnicami, piščančji b.k.k z limono na žaru, riž z grahom,tzaiki, sestavljena solata",
+                    "meni 2 (mleto meso): zelenjavna mineštra s stročnicami, pikanta žar klobasa, pire krompir, sestavljena solata.",
+                    "meni 3 (rdeče meso): zelenjavna mineštra s stročnicami, tortilija s svinjskimi trrakci in zelenjavo,riž z grahom,sirova omaka sestavljena solata.",
+                    "meni 4 (testenine): zelenjavna mineštra s stročnicami ravioli s skuto z omako iz jajčevcev in paradižnika sestavljena solata.",
+                    "meni 5 (vege): zelenjavna mineštra s stročnicami, bučkin zrezek,riž z grahom,tzaiki sestavljena solata",
+                    "meni 6 (solata): prežganka z jajcem, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "petek, 29. marec",
+                "items": [
+                    "meni 1 (perutnina) goveja ali gobova juha, s kruhovim nadevom polnjen piščanec, pražen krompir, sestavljena solata",
+                    "meni 2 (rdeče meso): goveja ali gobova juha, govedina iz juhe, pražen krompir,kremna špinača, sestavljena solata.",
+                    "meni 3 (rdeče meso): goveja ali gobova juha, ombolo na žaru,kus kus ,pepernota sestavljena solata.",
+                    "meni 4 (vege): goveja ali gobova juha takitosi s tofujem,kus kus, pepernota sestavljena solata.",
+                    "meni 5 (testenine): goveja ali gobova juha, testenine s pršutom, sestavljena solata",
+                    "meni 6 (riba): goveja ali gobova juha ocvrti oslič,pražen krompir,kremna špinača sladica"
+                ]
+            }
+        ]
+    },
+    {
+        "week_info": "Tedenski meni od 13. do 17. maja",
+        "days": [
+            {
+                "day": "ponedeljek, 13. maj",
+                "items": [
+                    "meni 1 (perutnina): paradižnikova juha, piščančji b.k.k na žaru, riž s cvetačo,brokolijem in korenjem, sestavljena solata",
+                    "meni 2 (mleto meso): paradižnikova juha, štefani pečenka z jajcem, dollar chips, sestavljena solata.",
+                    "meni 3 (rdeče meso): paradižnikova juha, pečen svinjski vrat, dolar chips, sestavljena solata.",
+                    "meni 4 (vege): paradižnikova juha, koruzni zrezek, dollar chips,stročji fižol z gobicam sestavljena solata.",
+                    "meni 5 (testenine): paradižnikova juha, makaronovo meso, sestavljena solata",
+                    "meni 6 (solata): paradižnikova juha, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "torek, 14. maj",
+                "items": [
+                    "meni 1 (perutnina): zeljna juha s krompirjem, pečen piščanec pekovski krompir  sestavljena solata",
+                    "meni 2 (mleto meso): zeljna juha s krompirjem, čevapčiči, pekovski krompir,ajvar, sestavljena solata.",
+                    "meni 3 (rdeče meso): zeljna juha s krompirjem,  zrezek v omaki s kaprami in paradižnikom, krompirjevi njoki sestavljena solata.",
+                    "meni 4 (vege): zeljna juha s krompirjem, ocvrti kanelon s špinačo in sirom, tribarvni riž,tatarska omaka sestavljena solata.",
+                    "meni 5 (testenine): zeljna juha s krompirjem, testenine z bolonjsko omako, sestavljena solata",
+                    "meni 6 (enolončnica): jota s suhim mesom, sladica ali sestavljena solata",
+                    "meni 7 (solata): zeljna juha s krompirjem, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "sreda, 15. maj",
+                "items": [
+                    "meni 1 (perutnina): cvetačna juha , puranov file z medom in limono, pire krompir,brstični ohrovt, sestavljena solata",
+                    "meni 2 (rdeče meso): cvetačna juha,  nabodalo na žaru, basmati riž,brstični ohrovt, sestavljena solata.",
+                    "meni 3 testenine): cvetačna juha, gobova lazanja, sestavljena solata.",
+                    "meni 4 (vege): zelenjavna mineštra tortilija s tofujem, basmati riž,sirova omaka sestavljena solata.",
+                    "meni 5 (riba): cvetačna juha, gratiniran file romba z bučko in sirom,maslen krompir sestavljena solata",
+                    "meni 6 enolončnica):, krompirjev golaž s kranjsko klobaso, sladica",
+                    "meni 7 (solata): cvetačna juha, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "četrtek, 16. maj",
+                "items": [
+                    "meni 1 (perutnina): zelenjavna mineštra , piščančji file v koruznem ovoju, maslen riž,bbq omaka, sestavljena solata",
+                    "meni 2 (mleto meso): zelenjavna mineštra, mesni polpet z rikoto, pomess frites, sestavljena solata.",
+                    "meni 3 rdeče meso): zelenjavna mineštra , ombolo na žaru, pomess frites sestavljena solata.",
+                    "meni 4 (testenine): zelenjavna mineštra nadevani ravijoli s smetanovo omako, sestavljena solata.",
+                    "meni 5 (vege): zelenjavna mineštra zavitek s sladkim krompirjem in špinačo,čebulni obročki,lečina omaka  sestavljena solata",
+                    "meni 6 (solata): zelenjavna mineštra, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "petek, 17. maj",
+                "items": [
+                    "meni 1 (perutnina) goveja ali gobova juha, ocvrti piščanec, pražen krompir, sestavljena solata",
+                    "meni 2 (rdeče meso): goveja ali gobova juha, govedina iz juhe, pražen krompir,kremna špinača, sestavljena solata.",
+                    "meni 3 (rdeče meso): goveja ali gobova juha, chili con carne,basmati riž načo sir in čips sestavljena solata.",
+                    "meni 4 (vege): goveja ali gobova juha čičirikini ocvrtki,brokoli z mandlji,korenčkov pire sestavljena solata.",
+                    "meni 5 (testenine): goveja ali gobova juha, testenine s pršutom in zelenjavo sestavljena solata",
+                    "meni 6 (riba): goveja ali gobova juha file soma,brokoli z mandlji,korenčkov pire"
+                ]
+            }
+        ]
+    },
+    {
+        "week_info": "Tedenski meni od 27. do 31. maja",
+        "days": [
+            {
+                "day": "ponedeljek, 27. maj",
+                "items": [
+                    "meni 1 (perutnina): brokolijeva kremna juha, piščančje stegno s paradižnikom in sirom, krompirjevi krhlji, sestavljena solata",
+                    "meni 2 (mleto meso): brokolijeva kremna juha, mesni polpet, riž s koruzo, sestavljena solata.",
+                    "meni 3 (rdeče meso): brokolijeva kremna juha, ombolo na žaru, krompirjevi krhlji,zelenjava na maslu sestavljena solata.",
+                    "meni 4 (vege): brokolijeva kremna juha, ocvrti šampinjoni, krompirjevi krhlji,zelenjava na maslu sestavljena solata.",
+                    "meni 5 (testenine): brokolijeva kremna juha, testenine alfredo s piščancem, sestavljena solata",
+                    "meni 6(enolončnica): jota s kislim zeljem, solata ali sladica",
+                    "meni 7(solata): brokolijeva kremna juha, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "torek, 28. maj",
+                "items": [
+                    "meni 1 (perutnina): porova juha s krompirjem, ocvrti piščančji file z bučnimi semeni in parmezanom, tribarvni riž z grahom  sestavljena solata",
+                    "meni 2 (mleto meso): porova juha s krompirjem, čevapčiči, pommes frites, ajvar sestavljena solata.",
+                    "meni 3 (rdeče meso): porova juha s krompirjem, dušena govedina, kruhov cmok sestavljena solata.",
+                    "meni 4 (vege): porova juha s krompirjem,cvetačni narastek, tribarvni riž z grahom,paradižnikova omaka sestavljena solata.",
+                    "meni 5 (testenine): porova juha s krompirjem, testenine carbonara, sestavljena solata",
+                    "meni 6 (enolončnica): pasulj s suhim mesom, solata ali sladica",
+                    "meni 7 (solata): porova juha s krompirjem, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "sreda, 29. maj",
+                "items": [
+                    "meni 1 (perutnina): čičirikina kremna juha , marinirano piščančje nabodalo, kus kus,jajčevci z jogurtom, sestavljena solata",
+                    "meni 2 (rdeče meso): čičirikina kremna juha, svinjska krača, krompir z gomoljno zelenjavo, sestavljena solata.",
+                    "meni 3 testenine): čičirikina kremna juha, špinačna lazanja, sestavljena solata.",
+                    "meni 4 vege): čičirikina kremna juha, zelenjavni zavitek , pečene bučke s špinačo,sladek krompir sestavljena solata.",
+                    "meni 5 riba: čičirikina kremna juha, file romba,pečene bučke s špinačo,sladek krompir sestavljena solata.",
+                    "meni 6 (enolončnica): bograč, solata ali sladica",
+                    "meni 7 solata): čičirikina kremna juha, solata s piščancem ali tuno, dnevna sladica"
+                ]
+            },
+            {
+                "day": "četrtek, 30. maj",
+                "items": [
+                    "meni 1 (perutnina): zelenjavna mineštra , piščančja tortilija, zelenjavni riž,sirova omaka, sestavljena solata",
+                    "meni 2 (mleto meso): zelenjavna mineštra, zavita pečenica,pire krompir, sestavljena solata.",
+                    "meni 3 rdeče meso): zelenjavna mineštra ,  zrezek v gorčični omaki, špinačni rezanci sestavljena solata.",
+                    "meni 4 (testenine): zelenjavna mineštra testenine z lignji in hobotnico  sestavljena solata.",
+                    "meni 5 (vege): zelenjavna mineštra ocvrti jajčevci,pire krompir,brokoli,sirova omaka, sestavljena solata",
+                    "meni 6 (solata): zelenjavna mineštra, solata s tuno ali piščancem, sladica"
+                ]
+            },
+            {
+                "day": "petek, 31. maj",
+                "items": [
+                    "meni 1 (perutnina) goveja ali gobova juha, pečen piščanec, dollar chips,brstični ohrovt, sestavljena solata",
+                    "meni 2 (rdeče meso): goveja ali gobova juha, govedina iz juhe, pražen krompir,kremna špinača, sestavljena solata.",
+                    "meni 3 (rdeče meso): goveja ali gobova juha, ocvrti mesni kanelon,dollar chips sestavljena solata.",
+                    "meni 4 (vege): goveja ali gobova juha riževi polpeti s špinačo in sirom,čičirikin pire,paradižnikova omaka sestavljena solata.",
+                    "meni 5 (testenine): goveja ali gobova juha, ravijoli sestavljena solata",
+                    "meni 6 (riba): goveja ali gobova juha pečen oslič,pražen krompir,kremna špinača,sestavljena solata"
+                ]
+            }
+        ]
+    }
+]
