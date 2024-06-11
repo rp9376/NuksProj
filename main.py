@@ -10,7 +10,9 @@ import os
 from bs4 import BeautifulSoup
 from fastapi import Query
 import requests
-
+from fastapi import FastAPI, Request
+from fastapi.responses import HTMLResponse
+from fastapi.templating import Jinja2Templates
 
 
 # Database setup
@@ -50,6 +52,22 @@ def parse_menu_file(html_content):
         menu_by_day.append([day_name, day_menus])
 
     return week_info, menu_by_day
+
+app = FastAPI()
+templates = Jinja2Templates(directory="static")
+
+@app.get("/", response_class=HTMLResponse)
+async def root(request: Request):
+    return templates.TemplateResponse("index.html", {"request": request})
+
+@app.get("/today/", response_class=HTMLResponse)
+async def root(request: Request):
+    return templates.TemplateResponse("today.html", {"request": request})
+
+@app.get("/yes/", response_class=HTMLResponse)
+async def root(request: Request):
+    return templates.TemplateResponse("everything.html", {"request": request})
+
 
 def parse_date_string(date_string):
     # Mapping of Slovenian month names to month numbers
@@ -95,7 +113,8 @@ def load_menu_to_db(db: Session, week_info, menu_data):
                 menu_record = Menu(week_info=week_info, day_name=day_name, menu_item=item)
                 db.add(menu_record)
             else:
-                print("dupe")
+                pass
+                #print("dupe")
     db.commit()
 
 @app.post("/load/")
@@ -117,7 +136,7 @@ def load_menus():
                 load_menu_to_db(db, week_info, menu_data)
 
                 # Remove this break if you want to process all files
-                break
+                #break
 
         return JSONResponse(content={"message": "Menus loaded successfully"}, status_code=200)
     
@@ -177,14 +196,16 @@ def get_menu(day_string: str):
 
         ## Js se zelo lepo opravičujem za ta code monstrosity ampak dela
 
-@app.post("/today/")
+@app.get("/fetch_today/")
 def load_today_menus():
     url = "https://fe.uni-lj.si/o-fakulteti/restavracija/"
     db = SessionLocal()
 
     try:
-        # Make a GET request to the website
-        response = requests.get(url)
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        }
+        response = requests.get(url, headers=headers)
         if response.status_code == 200:
             html_content = response.content
 
@@ -194,7 +215,8 @@ def load_today_menus():
             # Load menu data into the database
             load_menu_to_db(db, week_info, menu_data)
 
-            return JSONResponse(content={"message": "Today's menus loaded successfully"}, status_code=200)
+            #return JSONResponse(content={"message": "Today's menus loaded successfully"}, status_code=200)
+            return get_menu(datetime.now().strftime("%d_%-m"))
         else:
             raise HTTPException(status_code=response.status_code, detail=f"Failed to fetch data from {url}")
     except Exception as e:
@@ -202,3 +224,6 @@ def load_today_menus():
         raise HTTPException(status_code=500, detail=str(e))
     finally:
         db.close()
+
+        
+        

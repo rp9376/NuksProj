@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FE Menza+ | Everything</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+        }
+        h2 {
+            text-align: center;
+            margin-top: 10px;
+            color: #666;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .back-button {
+            margin-top: 20px;
+            text-align: center;
+        }
+        .back-button button {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .back-button button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Full database content</h1>
+        <h2 id="weekInfo">Loading week info...</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Day Name</th>
+                    <th>Week Info</th>
+                    <th>Menu Item</th>
+                </tr>
+            </thead>
+            <tbody id="menuBody">
+                <!-- Data will be inserted here -->
+            </tbody>
+        </table>
+        
+        <!-- Back button -->
+        <div class="back-button">
+            <button onclick="redirectToRoot()">Back</button>
+        </div>
+    </div>
+
+    <script>
+        // Function to fetch data from the API and populate the table
+        async function fetchMenu() {
+            try {
+                const response = await fetch('/menus'); // Assuming the API endpoint is '/today'
+                const data = await response.json();
+
+                const menuBody = document.getElementById('menuBody');
+                const weekInfo = document.getElementById('weekInfo');
+
+                if (data.length > 0) {
+                    weekInfo.textContent = ""; // Displaying week info from the first item
+                }
+
+                data.forEach(menu => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${menu.day_name}</td>
+                        <td>${menu.week_info}</td>
+                        <td>${menu.menu_item}</td>
+                    `;
+                    menuBody.appendChild(row);
+                });
+            } catch (error) {
+                console.error('Error fetching menu:', error);
+            }
+        }
+
+        // Call the function to fetch and populate the menu
+        fetchMenu();
+
+        // Function to redirect to root
+        function redirectToRoot() {
+            window.location.href = '/';
+        }
+    </script>
+</body>
+</html>
