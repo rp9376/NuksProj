@@ -1,6 +1,8 @@
+I have many of these files with a weekly menu. I need to create a seperate file called main.py that contains an api using fastapi library that would intake this data using a PUT method and be able to give it back with an api call. It also needs a database using sqlalchemy so a seperate files called shemas.py and database.py. 
+
+I have a python script that is a parser that outputs a json of a resturant menu. JSLON looks like this: 
 {
-    "title": "Tedenski meni od 8. do 12. aprila",
-    "days": [
+    "Tedenski meni od 8. do 12. aprila": [
         [
             "ponedeljek, 8. april",
             [
@@ -29,10 +31,10 @@
             [
                 "meni 1 (perutnina): cvetačna juha , puranov file z medom in limono, pire krompir,brstični ohrovt, sestavljena solata",
                 "meni 2 (rdeče meso): cvetačna juha,  nabodalo na žaru, basmati riž,brstični ohrovt, sestavljena solata.",
-                "meni 3 testenine): cvetačna juha, gobova lazanja, sestavljena solata.",
+                "meni 3 (testenine): cvetačna juha, gobova lazanja, sestavljena solata.",
                 "meni 4 (vege): zelenjavna mineštra tortilija s tofujem, basmati riž,sirova omaka sestavljena solata.",
                 "meni 5 (riba): cvetačna juha, gratiniran file romba z bučko in sirom,maslen krompir sestavljena solata",
-                "meni 6 enolončnica):, krompirjev golaž s kranjsko klobaso, sladica",
+                "meni 6 (enolončnica):, krompirjev golaž s kranjsko klobaso, sladica",
                 "meni 7 (solata): cvetačna juha, solata s tuno ali piščancem, sladica"
             ]
         ],
@@ -41,7 +43,7 @@
             [
                 "meni 1 (perutnina): zelenjavna mineštra , piščančji file v koruznem ovoju, maslen riž,bbq omaka, sestavljena solata",
                 "meni 2 (mleto meso): zelenjavna mineštra, mesni polpet z rikoto, pomess frites, sestavljena solata.",
-                "meni 3 rdeče meso): zelenjavna mineštra , ombolo na žaru, pomess frites sestavljena solata.",
+                "meni 3 (rdeče meso): zelenjavna mineštra , ombolo na žaru, pomess frites sestavljena solata.",
                 "meni 4 (testenine): zelenjavna mineštra testenine s piščancem in zelenjavo, sestavljena solata.",
                 "meni 5 (vege): zelenjavna mineštra zavitek s sladkim krompirjem in špinačo,čebulni obročki,lečina omaka  sestavljena solata",
                 "meni 6 (solata): zelenjavna mineštra, solata s tuno ali piščancem, sladica"
@@ -61,3 +63,8 @@
     ]
 }
 
+I need a seperate python fastapi api on another server that my parser can send json to    
+and input it into a sqlalchemy database. there may be more weeks in the fson file. 
+There also insnt a set number of days in a week and set number of menus in a day. 
+Store them so the are accessable by day. Later make a get api request that returnes a whole database and another that you can input a date ant it returnes a menu for that date.
+ 
